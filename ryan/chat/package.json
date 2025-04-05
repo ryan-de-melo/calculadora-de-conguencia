@@ -1,9 +1,9 @@
 {
-  "name": "tcr-solver",
+  "name": "calculadora-de-congruencia",
   "version": "1.0.0",
-  "main": "backend/index.js",
+  "main": "ryan/chat/backend/index.js",
   "scripts": {
-    "start": "node backend/index.js"
+    "start": "node ryan/chat/backend/index.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
