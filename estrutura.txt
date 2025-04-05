@@ -1,0 +1,11 @@
+tcr-solver/
+├── backend/
+│   ├── index.js
+│   └── tcrSolver.js
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+├── package.json
+└── README.md
+
